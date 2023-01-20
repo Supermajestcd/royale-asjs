@@ -88,7 +88,7 @@
     <dependency>
       <groupId>org.apache.royale.framework</groupId>
       <artifactId>JewelTheme</artifactId>
-      <version>0.9.9-SNAPSHOT</version>
+      <version>0.9.9</version>
       <type>swc</type>
       <scope>theme</scope>
       <classifier>js</classifier>
