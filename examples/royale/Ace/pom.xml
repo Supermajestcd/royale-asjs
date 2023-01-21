@@ -57,7 +57,7 @@
     <dependency>
       <groupId>org.apache.royale.framework</groupId>
       <artifactId>DragDrop</artifactId>
-      <version>0.9.9-SNAPSHOT</version>
+      <version>0.9.9</version>
       <type>swc</type>
       <classifier>js</classifier>
     </dependency>
@@ -114,7 +114,7 @@
         <dependency>
           <groupId>org.apache.royale.framework</groupId>
           <artifactId>DragDrop</artifactId>
-          <version>0.9.9-SNAPSHOT</version>
+          <version>0.9.9</version>
           <type>swc</type>
           <classifier>swf</classifier>
         </dependency>
@@ -150,4 +150,4 @@
     </profile>
   </profiles>
 
-<properties /></project>
+<properties/></project>
