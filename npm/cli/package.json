@@ -30,7 +30,7 @@
     "morgan": "1.9.0",
     "node-http-server": "8.1.2",
     "open": "0.0.5",
-    "reload": "2.2.2",
+    "reload": "2.3.0",
     "serve-static": "1.13.2",
     "yargs": "11.0.0"
   },
