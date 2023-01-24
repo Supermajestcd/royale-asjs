@@ -21,7 +21,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "child_process": "1.0.2",
-    "chokidar": "2.0.1",
+    "chokidar": "2.0.2",
     "connect": "3.6.5",
     "express": "4.16.2",
     "fs-extra": "5.0.0",
