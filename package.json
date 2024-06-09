@@ -24,7 +24,7 @@
     "mkdirp": "^0.5.1",
     "prompt": "^0.2.14",
     "request": "^2.67.0",
-    "unzipper": "0.10.4"
+    "unzipper": "0.12.1"
   },
   "scripts": {
     "postinstall": "node npm/dependencies/download_dependencies.js"
