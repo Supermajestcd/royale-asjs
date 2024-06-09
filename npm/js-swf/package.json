@@ -27,7 +27,7 @@
     "prompt": "^0.2.14",
     "replace-in-file": "4.1.3",
     "request": "^2.67.0",
-    "unzipper": "0.10.4"
+    "unzipper": "0.12.1"
   },
   "scripts": {
     "postinstall": "node royale-asjs/npm/js-swf/dependencies/download_dependencies.js"
