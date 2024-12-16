@@ -24,7 +24,7 @@
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>23</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <groupId>org.apache.royale.framework</groupId>
@@ -55,13 +55,13 @@
     <maven.version>3.5.4</maven.version>
 
     <royale.build-tools.version>1.2.1</royale.build-tools.version>
-    <project.royale.compiler.version>0.9.10-SNAPSHOT</project.royale.compiler.version>
+    <project.royale.compiler.version>0.9.12</project.royale.compiler.version>
     <royale.typedefs.version>0.9.10-SNAPSHOT</royale.typedefs.version>
 
     <royale.targets>JSRoyale</royale.targets>
     <royale.skipAS>true</royale.skipAS>
     <royale.debug>true</royale.debug>
-    <repo.compiler.options />
+    <repo.compiler.options/>
 
     <flex.version>4.15.0</flex.version>
     <flash.version>20.0</flash.version>
@@ -71,7 +71,7 @@
     <source.map>true</source.map>
 
     <!-- This parameter has to be provided from the outside -->
-    <webdriver.gecko.driver />
+    <webdriver.gecko.driver/>
     <selenium.version>3.4.0</selenium.version>
     <junit.version>4.12</junit.version>
 
