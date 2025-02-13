@@ -24,7 +24,7 @@
     "merge-dirs": "^0.2.1",
     "mkdirp": "^0.5.1",
     "os": "^0.1.1",
-    "prompt": "^0.2.14",
+    "prompt": "^1.2.0",
     "replace-in-file": "4.1.3",
     "request": "^2.67.0",
     "unzipper": "0.10.4"
